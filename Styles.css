@@ -15,8 +15,8 @@
         background-color: rgb(255, 255, 255);
     }
 
-    .container-fluid {
-        background-color: grey;
+    .navbar>.container-fluid {
+        background-color: darkgray;
     }
 
     .brand img{
